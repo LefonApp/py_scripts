@@ -1,4 +1,4 @@
-name: 'TextNow签到'
+name: 'TextNow签到 '
 
 on:
   push:
