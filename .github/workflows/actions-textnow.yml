@@ -1,4 +1,4 @@
-name: 'TextNow Protect Number'
+name: 'TextNow签到'
 
 on:
   push:
